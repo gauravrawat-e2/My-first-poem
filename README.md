@@ -1,1 +1,1 @@
-studded-decorated
+studded-decorated with studs
